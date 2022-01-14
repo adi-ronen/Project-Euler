@@ -1,3 +1,4 @@
+// Problem 9 - Special Pythagorean triplet
 const specialPythagoreanTriplet = sum => {
   for (let a = 0; a < 1000/3; a++) {
     for (let b = a + 1; b < 1000/2; b++) {
